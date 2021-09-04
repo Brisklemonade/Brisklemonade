@@ -1,4 +1,6 @@
-👋🏾 Hey, I'm @Brisklemonade
+<p align="center">
+  <h1 align="center">Hey, I'm @Brisklemonade</h1>
+</p>
 
 🎓 High school Senior graduation date (May 2022)
 
@@ -12,12 +14,12 @@
 
 💪🏽 Some strengths of mine that I'd like to highlight are:
 
-My positive Attitude
+- My positive Attitude
 
-Great communication Skills
+- Great communication Skills
 
-Good Time and Task Management
+- Good Time and Task Management
 
-Quick Learning Ability
+- Quick Learning Ability
 
-A Good Team Player
+- A Good Team Player
