@@ -12,8 +12,12 @@
 
 💪🏽 Some strengths of mine that I'd like to highlight are:
 
-*My positive Attitude
-*Great communication Skills
-*Good Time and Task Management
-*Quick Learning Ability
-*A Good Team Player
+My positive Attitude
+
+Great communication Skills
+
+Good Time and Task Management
+
+Quick Learning Ability
+
+A Good Team Player
