@@ -4,7 +4,7 @@
 
 🎓 High school Senior graduation date (May 2022)
 
-🌇 I'm currently living in Dallas Texas, with a passion for creating we and native applications
+🌇 I'm currently living in Dallas Texas, with a passion for creating web and native applications
 
 📚 Since I was in sixth grade, I've been programming. My first big project on repl.it was a c++ RPG (role-playing game). It has over 2,000 lines of code and it was highly praised at my school. I spent a few years building things in python and c++, and while I was good at it and enjoyed it, it didn't feel like I had found my passion. In the last few months, I've become fascinated by the world of user interface design and all it has to offer. I taught myself how to become a UI Designer and landed a remote job as one. The idea of combining design and code came to me one day, and it was one of the best ideas I'd ever had. I believe I have discovered my passion, and I am excited to see where life will take me!
 
